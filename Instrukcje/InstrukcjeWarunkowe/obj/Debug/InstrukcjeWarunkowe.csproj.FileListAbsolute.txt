@@ -1,0 +1,8 @@
+C:\Users\Celiek\source\repos\Instrukcje\InstrukcjeWarunkowe\bin\Debug\InstrukcjeWarunkowe.exe.config
+C:\Users\Celiek\source\repos\Instrukcje\InstrukcjeWarunkowe\bin\Debug\InstrukcjeWarunkowe.exe
+C:\Users\Celiek\source\repos\Instrukcje\InstrukcjeWarunkowe\bin\Debug\InstrukcjeWarunkowe.pdb
+C:\Users\Celiek\source\repos\Instrukcje\InstrukcjeWarunkowe\obj\Debug\InstrukcjeWarunkowe.csproj.AssemblyReference.cache
+C:\Users\Celiek\source\repos\Instrukcje\InstrukcjeWarunkowe\obj\Debug\InstrukcjeWarunkowe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Celiek\source\repos\Instrukcje\InstrukcjeWarunkowe\obj\Debug\InstrukcjeWarunkowe.csproj.CoreCompileInputs.cache
+C:\Users\Celiek\source\repos\Instrukcje\InstrukcjeWarunkowe\obj\Debug\InstrukcjeWarunkowe.exe
+C:\Users\Celiek\source\repos\Instrukcje\InstrukcjeWarunkowe\obj\Debug\InstrukcjeWarunkowe.pdb
